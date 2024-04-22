@@ -1,0 +1,14 @@
+textarea {
+    font-family: monospace;
+}
+
+#diodes {
+    margin-top: 8px;
+}
+
+.diode {
+    font-family: monospace;
+    border: 2px solid black;
+    background-color: lightgray;
+    padding: 2px;
+}

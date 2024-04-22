@@ -1,0 +1,18 @@
+[#pato]
+= pato
+:revdate: 2024-04-22
+:author: Paweł Kruszec
+:email: pakruszec@gmail.com
+
+++++
+<link rel="stylesheet" href="pato.css">
+<div>
+        <textarea id="pangram"></textarea>
+        <div id="diodes"></div>
+</div>
+<br/>
+<div>
+        <textarea id="alphabet"></textarea>
+</div>
+<script src="pato.js"></script>
+++++

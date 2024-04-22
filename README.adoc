@@ -1,0 +1,8 @@
+[#pato]
+= pato
+:revdate: 2024-04-22
+:author: Paweł Kruszec
+:email: pakruszec@gmail.com
+
+pato -- pangram tool
+
