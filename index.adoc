@@ -1,0 +1,9 @@
+[#pato]
+= Pangram Tool · link:https://github.com/pkruszec/pato/[GitHub]
+:revdate: 2024-07-21
+:author: Paweł Kruszec
+:email: pakruszec@gmail.com
+
+++++
+include::pato.html[]
+++++

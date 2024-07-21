@@ -6,3 +6,11 @@
 
 pato -- pangram tool
 
+Prerequisites::
+* link:https://asciidoctor.org/[Asciidoctor] (or just use raw `pato.html`)
+
+Quickstsart::
+[source, sh]
+----
+asciidoctor index.adoc
+----

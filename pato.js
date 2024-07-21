@@ -1,9 +1,9 @@
 const englishAlphabet = "abcdefghijklmnopqrstuvwxyz";
 const polishAlphabet = "aąbcćdeęfghijklłmnńoóprsśtuwyzźż";
 
-const gray = "lightgray";
-const red = "red";
-const green = "green";
+const gray = "rgb(200, 200, 200)";
+const red = "rgb(230, 41, 55)";
+const green = "rgb(0, 158, 47)";
 
 const pangram = document.getElementById("pangram");
 const alphabet = document.getElementById("alphabet");

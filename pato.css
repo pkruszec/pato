@@ -1,9 +1,7 @@
-.appContent {
+textarea {
     font-family: monospace;
     font-size: 16pt;
-}
-
-textarea {
+    
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -14,14 +12,16 @@ textarea {
 }
 
 #diodes {
+    font-family: monospace;
+    font-size: 16pt;
+    
     margin-right: auto;
     margin-left: auto;
     width: fit-content;
 }
 
 .diode {
-    border: 2px solid black;
-    background-color: lightgray;
+    background-color: rgb(200, 200, 200);
     padding: 4px;
     margin-right: 2px;
 }
