@@ -1,6 +1,11 @@
+:root {
+    --app-text-family: inherit;
+    --app-text-size: 16pt;
+}
+
 textarea {
-    font-family: monospace;
-    font-size: 16pt;
+    font-family: var(--app-text-family);
+    font-size: var(--app-text-size);
     
     display: block;
     margin-right: auto;
@@ -12,8 +17,8 @@ textarea {
 }
 
 #diodes {
-    font-family: monospace;
-    font-size: 16pt;
+    font-family: var(--app-text-family);
+    font-size: var(--app-text-size);
     
     margin-right: auto;
     margin-left: auto;

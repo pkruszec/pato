@@ -25,6 +25,8 @@ alphabet.onchange = (event) => {
             diodes.appendChild(element);
         }
     }
+
+    pangram.onchange(null);
 }
 
 alphabet.oninput = alphabet.onchange;
@@ -58,7 +60,5 @@ pangram.onchange = (event) => {
 }
 pangram.oninput = pangram.onchange;
 
-// TODO: buttons to quickly set the alphabet
-// alphabet.textContent = englishAlphabet;
-alphabet.textContent = polishAlphabet;
+alphabet.textContent = englishAlphabet;
 alphabet.onchange();
