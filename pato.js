@@ -26,6 +26,7 @@ alphabet.onchange = (event) => {
         }
     }
 }
+
 alphabet.oninput = alphabet.onchange;
 
 pangram.onchange = (event) => {

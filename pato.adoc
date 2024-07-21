@@ -1,18 +1,15 @@
 [#pato]
-= pato
+= Pangram Tool
 :revdate: 2024-04-22
 :author: Paweł Kruszec
 :email: pakruszec@gmail.com
 
 ++++
 <link rel="stylesheet" href="pato.css">
-<div>
-        <textarea id="pangram"></textarea>
-        <div id="diodes"></div>
-</div>
+<textarea class="appContent" id="pangram"></textarea>
 <br/>
-<div>
-        <textarea id="alphabet"></textarea>
-</div>
+<div class="appContent" id="diodes"></div>
+<br/>
+<textarea class="appContent" id="alphabet"></textarea>
 <script src="pato.js"></script>
 ++++
