@@ -6,10 +6,10 @@
 
 pato -- pangram tool
 
-Prerequisites::
+== Prerequisites
 * link:https://asciidoctor.org/[Asciidoctor] (or just use raw `pato.html`)
 
-Quickstsart::
+== Quickstart
 [source, sh]
 ----
 asciidoctor index.adoc
