@@ -6,6 +6,8 @@
 
 pato -- pangram tool
 
+link:https://rycyzyda.kruchy.net/pato/
+
 == Prerequisites
 * link:https://asciidoctor.org/[Asciidoctor] (or just use raw `pato.html`)
 
